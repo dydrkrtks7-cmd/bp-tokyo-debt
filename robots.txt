@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yeomchang-massage-note.localscoop.online/sitemap.xml
-Sitemap: https://yeomchang-massage-note.localscoop.online/sitemap-pages.xml
+Sitemap: https://blog.gongdeok-club.xyz/sitemap.xml
+Sitemap: https://blog.gongdeok-club.xyz/sitemap-pages.xml
