@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://blog.gongdeok-club.xyz/sitemap.xml
+Sitemap: https://blog.gongdeok-club.xyz/sitemap-pages.xml
