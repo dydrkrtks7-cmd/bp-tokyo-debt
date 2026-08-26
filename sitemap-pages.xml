@@ -11,37 +11,67 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/compare-002-3lscep.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/field_note-001-1987di0.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/field_note-001-1jz0zsv.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/field_note-002-1p9qh30.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/field_note-003-1ga3e6t.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/field_note-003-nf2idi.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://blog.gongdeok-club.xyz/posts/field_note-003-wlx3qo.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.gongdeok-club.xyz/posts/gemini-coverage-20260721-0239.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.gongdeok-club.xyz/posts/gemini-coverage-20260722-0069.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.gongdeok-club.xyz/posts/gemini-coverage-20260722-0073.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.gongdeok-club.xyz/posts/gemini-coverage-20260722-0075.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.gongdeok-club.xyz/posts/gemini-coverage-20260722-0076.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.gongdeok-club.xyz/posts/gemini-coverage-20260722-0077.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.gongdeok-club.xyz/posts/guide-003-1crbfsu.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.gongdeok-club.xyz/posts/review-001-899i5u.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.gongdeok-club.xyz/posts/t3link-001-1rivofj.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.gongdeok-club.xyz/posts.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.gongdeok-club.xyz/posts/qa-001-3lscep.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://blog.gongdeok-club.xyz/posts/compare-002-3lscep.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -51,22 +81,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/gemini-coverage-20260707-0735.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://blog.gongdeok-club.xyz/posts/gemini-coverage-20260707-0736.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/gemini-coverage-20260707-0737.html</loc>
+    <loc>https://blog.gongdeok-club.xyz/posts/gemini-coverage-20260707-0735.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/gemini-coverage-20260721-0239.html</loc>
+    <loc>https://blog.gongdeok-club.xyz/posts/gemini-coverage-20260707-0737.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -136,11 +161,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/gemini-coverage-20260722-0069.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://blog.gongdeok-club.xyz/posts/gemini-coverage-20260722-0070.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -156,67 +176,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/gemini-coverage-20260722-0073.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://blog.gongdeok-club.xyz/posts/gemini-coverage-20260722-0074.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/gemini-coverage-20260722-0075.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/gemini-coverage-20260722-0076.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/gemini-coverage-20260722-0077.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/guide-003-1crbfsu.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/guide-003.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/guide-004-2bw0fb.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/guide-004-71f9vu.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/qa-001-3lscep.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/qa-005-1xj1kpa.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/qa-005-2dqol0.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/review-001-899i5u.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -231,47 +191,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/review-002-37jph6.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/review-002-ls7ery.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://blog.gongdeok-club.xyz/posts/review-002.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/t3link-001-15qxb2x.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/t3link-001-1gvb7bc.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.gongdeok-club.xyz/posts/t3link-001-1rivofj.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.gongdeok-club.xyz/posts.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.gongdeok-club.xyz/posts-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://blog.gongdeok-club.xyz/posts-3.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
